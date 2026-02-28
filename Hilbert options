@@ -1,0 +1,12 @@
+DOCTYPE html!
+<html>
+  <body>
+    <h1> PAYMENTS TEST OPTIONS </h1>
+    <select>
+      <options>
+        <p>Hilbert- 100 </p>
+        <p> Kagoro- 50 </p>
+      </options>
+    </select>
+  </body>
+</html>
